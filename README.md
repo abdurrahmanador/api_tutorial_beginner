@@ -17,7 +17,7 @@ Although they could all be housed in a single file like home_data.dart, keeping 
 I've included only three data files here for demonstration purposes, <br>but they should suffice to understand the structure and organization of the project.
 
 # In view directory:
-Passing arguments from ListTile (in home_screen.dart) to user_detail_screen enhances the user experience by providing detailed insights.
+Passing arguments from ListTile (in home_screen.dart) to user_detail_screen.dart enhances the user experience by providing detailed insights.
 
 ____
 
