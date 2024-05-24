@@ -1,5 +1,6 @@
 
 # RESTAPI_FOR_BEGINNER
+(GET Request)
 Welcome to RESTAPI_FOR_BEGINNER, a beginner-friendly project designed to help you master RESTful API integration in Flutter effortlessly. This project leverages modern tools and patterns, empowering you to grasp the essentials of API integration with ease.
 
 # Features:
