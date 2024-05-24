@@ -9,14 +9,14 @@ Demo Endpoint: Utilize a demo endpoint to practice fetching data from a remote s
 MVVM Architecture: Embrace the Model-View-ViewModel (MVVM) architecture pattern for clean and organized code.<br>
 HTTP Requests: Learn to perform HTTP requests, facilitating seamless interaction with the API.
 
-# In Model:
+# In model directory:
 Discover all the data files here.
 I've organized the data classes separately for clarity and simplicity. <br>
 Although they could all be housed in a single file like home_data.dart, keeping them separate helps maintain clarity.<br> In home_data.dart, I've connected all the data files, providing a centralized location for accessing them.
 
 I've included only three data files here for demonstration purposes, <br>but they should suffice to understand the structure and organization of the project.
 
-# In View:
+# In view directory:
 Passing arguments from ListTile (in home_screen.dart) to user_detail_screen enhances the user experience by providing detailed insights.
 
 ____
