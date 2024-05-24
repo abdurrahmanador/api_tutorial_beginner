@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Zhdan",
+                "last": "Ostryanin"
+            },
+            "location": {
+                "street": {
+                    "number": 638,
+                    "name": "Mikoli Trublayini"
+                },
+                "city": "Piryatin",
+                "state": "Zakarpatska",
+                "country": "Ukraine",
+                "postcode": 24852,
+                "coordinates": {
+                    "latitude": "78.8139",
+                    "longitude": "-171.5115"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "zhdan.ostryanin@example.com",
+            "login": {
+                "uuid": "6a01ea42-58b3-4fd3-b3d2-de26c8100f69",
+                "username": "ticklishdog865",
+                "password": "chargers",
+                "salt": "tFRn03oS",
+                "md5": "de68200cf40cc6396dca2aad0de6e8ff",
+                "sha1": "566afee0c99b01bd9996cccca7005a0421d8f195",
+                "sha256": "2f20211a19e4f56b5d68343241d10b8a5462ffaff7c23d92143e1b1b773dcd00"
+            },
+            "dob": {
+                "date": "1997-09-01T12:41:54.613Z",
+                "age": 26
+            },
+            "registered": {
+                "date": "2005-01-13T03:01:33.893Z",
+                "age": 19
+            },
+            "phone": "(098) N00-0945",
+            "cell": "(097) J50-5862",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/43.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+            },
+            "nat": "UA"
+        }
+    ],
+    "info": {
+        "seed": "1969285cdccc9966",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
