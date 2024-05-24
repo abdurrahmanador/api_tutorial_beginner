@@ -19,5 +19,6 @@ I've included only three data files here for demonstration purposes, but they sh
 # In View:
 Passing arguments from ListTile (in home_screen.dart) to user_detail_screen enhances the user experience by providing detailed insights.
 
-About the Author:
-Abdur Rahman, Junior Mobile Application Developer at mPair Technologies Ltd.
+____
+
+Abdur Rahman
